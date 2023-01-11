@@ -5,7 +5,7 @@
     multiples of both three and five print “FizzBuzz”.
 */
 
-
+    
 
 function fizzBuzz(n) {
     // Code goes here
